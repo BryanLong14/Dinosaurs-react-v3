@@ -26,4 +26,5 @@
 #### Deployed Link https://vast-plains-13881.herokuapp.com/
 
 
-#### Framework of choice
+#### Framework of choice -
+####I used React to build this app
