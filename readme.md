@@ -23,6 +23,7 @@
 2. Host your app locally on port `8080`. PORT=8080 npm run
 3. Navigate to this folder and run `npm test`.
 
-#### Deployed Link
+#### Deployed Link https://vast-plains-13881.herokuapp.com/
+
 
 #### Framework of choice
